@@ -5,4 +5,5 @@
 
 ## Contact
 
+* https://t.me/everscale
 * https://t.me/EverVoiceChat
