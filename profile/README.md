@@ -2,7 +2,7 @@
 
 * https://everscale.network/
 * https://everscale-org.github.io/
-* https://gov.freeton.org/main or https://gov.gramkit.org/en?category=development
+* https://gov.gramkit.org/en?category=development
 
 ## Contact
 
