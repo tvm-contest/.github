@@ -1,7 +1,7 @@
 # Everscale Contest
 
 * https://everscale.network/
-* https://everscale-org.github.io/
+* https://docs.everscale.network/
 * https://gov.gramkit.org/en?category=development
 
 ## Contact
